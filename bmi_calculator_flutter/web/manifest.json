@@ -1,6 +1,6 @@
 {
-    "name": "bmi_calculator_flutter",
-    "short_name": "bmi_calculator_flutter",
+    "name": "bmi_calculator",
+    "short_name": "bmi_calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
